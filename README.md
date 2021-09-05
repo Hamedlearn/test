@@ -10,3 +10,6 @@ git push
 ////////////////
 
 git checkout -b branch-name
+
+///////////
+npm init -y
